@@ -6,7 +6,7 @@ Clone the repository to your local machine: git clone **`https://github.com/Jaku
 Navigate to the project directory: cd racing-bar-chart-py.
 Install the required dependencies using pip: 
  * pip install **`git+https://github.com/programiz/bar_char_race.git@master`**
- * pip install **'virtualenv'**
+ * pip install **`virtualenv`**
 
 Install ffmpeg - for saving as a video. Go [here](https://github.com/BtbN/FFmpeg-Builds/releases/) and download the latest version.
 
