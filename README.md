@@ -4,11 +4,11 @@ This is a fun project that experiments with racing bar charts. The project conta
 ### Installation
 Clone the repository to your local machine: git clone **`https://github.com/JakubMatousek1/racing-bar-chart-py.git`**
 Navigate to the project directory: cd racing-bar-chart-py.
+
 Install the required dependencies using pip: 
  * pip install **`git+https://github.com/programiz/bar_char_race.git@master`**
  * pip install **`virtualenv`**
-
-Install ffmpeg - for saving as a video. Go [here](https://github.com/BtbN/FFmpeg-Builds/releases/) and download the latest version.
+ * **`ffmpeg`** - for saving as a video. Go [here](https://github.com/BtbN/FFmpeg-Builds/releases/) and download the latest version.
 
 ### Usage
 Run the Python script to generate the racing bar chart: python racing_bar_chart.py
