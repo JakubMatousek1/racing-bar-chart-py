@@ -1,6 +1,11 @@
 # Racing Bar Chart Project
 This is a fun project that experiments with racing bar charts. The project contains a Python script that generates a racing bar chart using arbitrary data from a CSV file.
 
+<p align="center">  
+ <img src="img/final_output.png" width="700"/>
+</p>  
+
+
 ### Installation
 Clone the repository to your local machine: git clone **`https://github.com/JakubMatousek1/racing-bar-chart-py.git`**
 Navigate to the project directory: cd racing-bar-chart-py.
